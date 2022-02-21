@@ -1,0 +1,10 @@
+name: expcode
+channels:
+  - default
+dependencies:
+  - python=2.7   # or 2.7 if you are feeling nostalgic
+  - numpy
+  - pip:
+    - pygame
+    - ConfigParser
+
